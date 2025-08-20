@@ -13,6 +13,8 @@ kubeconfig_*
 node_modules
 dist
 .venv
+*.pem
+*.ppk
 
 ort-build
 
